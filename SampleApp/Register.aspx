@@ -17,7 +17,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label>Full Name <span class="required">*</span></label>
+                                <label>Bhau cha Full Name <span class="required">*</span></label>
                                 <div class="input-group">
                                     <span class="input-group-addon"><i class="fa fa-user"></i></span>
                                     <asp:TextBox ID="txtFullName" runat="server" CssClass="form-control" MaxLength="100"></asp:TextBox>
